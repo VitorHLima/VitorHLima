@@ -26,7 +26,12 @@
 </a>
 
 </div> 
- 
+
+[<img align="left" height="88px" width="90px" alt="Warpnet" src="https://th.bing.com/th/id/R.24a16f184574d2f54970457e04d56e50?rik=OckWyUpFFiPXxw&pid=ImgRaw&r=0" style="margin-right: 10px; margin-top:50px; margin-bottom:20px">]()
+
+**Estagiário de TI** \
+[<span style="color: #8B0000">***SPTECH***</span>](https://www.linkedin.com/school/sptechschool/mycompany/) • Full-time \
+Atividades: `QA`, `Programador Front-end`,  `Programador back-end`
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
